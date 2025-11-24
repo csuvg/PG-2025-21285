@@ -47,13 +47,6 @@
 - Gestión de ideas de proyectos
 - Interacción con estudiantes
 
-### Para Estudiantes
-- Test de orientación vocacional
-- Recomendaciones de carreras personalizadas
-- Acceso a información sobre carreras
-- Foros de comunidad
-- Testimonios de egresados
-- Perfil personal con historial
 
 ## 🛠️ Tecnologías Utilizadas
 
